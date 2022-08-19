@@ -11,4 +11,4 @@ The activities we carried out within the scope of the project are as follows:
    8. We got 83% accuracy and 85% AUC with the Decision Tree Model.
    9. We got 83% accuracy and 89% AUC with the Support Vector Classifier Model.
    10. And we got 90.3% accuracy and 93% AUC with the Random Forest Classifier Model.
-   11. When all these model outputs are evaluated, we prefer the model we created with the Random Forest Algorithm, which gives the best results. See you in the next project.
+   11. When all these model outputs are evaluated, we prefer the model we created with the Random Forest Algorithm, which gives the best results.
